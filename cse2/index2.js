@@ -1,0 +1,1 @@
+import {addFn,sub,Fn,x} from "./math.js"
